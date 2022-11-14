@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/herman-palishchuk-a49757255/">
   <img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   <a href="https://www.instagram.com/herman_polyschuk/">
     <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
