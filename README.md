@@ -33,6 +33,8 @@ Languages and technologies:
  <img src="https://github.com/devicons/devicon/blob/master/icons/foundation/foundation-original.svg" width="40" height="40" alt="Foundation" title="Foundation">
  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="JQuery" title="JQuery">
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter">
 </div>
  
  --- 
