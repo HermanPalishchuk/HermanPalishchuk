@@ -4,9 +4,6 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/herman-palishchuk-a49757255/">
   <img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  <a href="https://www.instagram.com/herman_polyschuk/">
-    <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-  </a>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=HermanPalishchuk&style=flat-square&color=grey" alt=""/>
