@@ -39,5 +39,3 @@ Languages and technologies:
 My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RandyR0zz&theme=dark&hide_border=true&border_radius=2.5)](https://git.io/streak-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandyR0zz&layout=compact&theme=vision-friendly-dark&hide_border=True&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
