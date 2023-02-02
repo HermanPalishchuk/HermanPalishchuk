@@ -38,4 +38,4 @@ Languages and technologies:
 
 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RandyR0zz&theme=dark&hide_border=true&border_radius=2.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Randy&theme=highcontrast&hide_border=true&background=FFFFFF00&sideNums=94EB23&ring=94EB23&fire=94EB23&currStreakNum=94EB23&currStreakLabel=94EB23&sideLabels=52FAFF&dates=52FAFF)](https://git.io/streak-stats)
