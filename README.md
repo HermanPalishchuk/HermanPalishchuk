@@ -38,4 +38,4 @@ Languages and technologies:
 
 My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RandyRozz&theme=hacker&background=EB545400&stroke=87EB0300&fire=6EC002&currStreakNum=6EC002&sideNums=6EC002&currStreakLabel=6EC002&border=EB545400&sideLabels=6EC002&dates=6EC002&ring=6EC002)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RandyRozz&theme=hacker&background=EB545400&stroke=87EB0300&fire=8EC805&currStreakNum=8EC805&sideNums=8EC805&currStreakLabel=8EC805&border=EB545400&sideLabels=8EC805&dates=8EC805&ring=8EC805)](https://git.io/streak-stats)
