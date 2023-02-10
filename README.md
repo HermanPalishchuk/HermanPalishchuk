@@ -35,7 +35,3 @@ Languages and technologies:
 </div>
  
  --- 
-
-My Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RandyRozz&theme=hacker&background=EB545400&stroke=87EB0300&fire=97D406&currStreakNum=97D406&sideNums=97D406&currStreakLabel=97D406&border=EB545400&sideLabels=97D406&dates=97D406&ring=97D406)](https://git.io/streak-stats)
