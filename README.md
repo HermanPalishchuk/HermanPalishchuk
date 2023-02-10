@@ -23,7 +23,7 @@ Languages and technologies:
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python">
  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" title="SQLite">
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django">
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML">
@@ -33,5 +33,3 @@ Languages and technologies:
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git">
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter">
 </div>
- 
- --- 
