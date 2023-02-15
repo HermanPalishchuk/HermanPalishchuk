@@ -13,7 +13,7 @@
 
 About me:
 
-Started to learn coding on Python. I am highly motivated to get more knowledges in IT. 
+Started to learn coding on Python. I am highly motivated to get more knowledges in language and technologies at all. 
 Now exploring Flask, Docker.
  
  ---
