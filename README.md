@@ -16,7 +16,7 @@ About me:
 - Started to learn coding
 - Learning Python
 
-I am highly motivated to get more knowledges in IT. Now exploring FastApi, Flask, Docker.
+I am highly motivated to get more knowledges in IT. Now exploring Flask, Docker.
  
  ---
 
