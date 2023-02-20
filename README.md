@@ -38,8 +38,6 @@ Now exploring Flask, Docker.
 
 #### Contents:
 
----
-  
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Codewars">Codewars</a></li>
 </ul>
