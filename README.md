@@ -33,3 +33,16 @@ Languages and technologies:
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git">
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter">
 </div>
+
+  ---
+
+Contents:
+
+<div>
+  <ul><a href="https://github.com/RandyR0zz/Codewars">Codewars</a>
+    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/5_kyu">5_kyu</a></li>
+    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/6_kyu">6_kyu</a></li>
+    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/7_kyu">7_kyu</a></li>
+    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/8_kyu">8_kyu</a></li>
+  </ul>
+</div>
