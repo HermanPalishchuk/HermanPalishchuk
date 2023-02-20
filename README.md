@@ -39,7 +39,7 @@ Languages and technologies:
 Contents:
 
 <div>
-  <ul><a href="https://github.com/RandyR0zz/Codewars">Codewars</a>
+  <ul type="square"><a href="https://github.com/RandyR0zz/Codewars">Codewars</a>
     <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/5_kyu">5_kyu</a></li>
     <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/6_kyu">6_kyu</a></li>
     <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/7_kyu">7_kyu</a></li>
