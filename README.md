@@ -36,13 +36,17 @@ Languages and technologies:
 
   ---
 
-Contents:
+####Contents:
 
+---
+  
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Codewars">Codewars</a></li>
 </ul>
 
 The repository for the tasks from the Codewars website.
+
+---
   
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Django_course">Django course</a></li>
@@ -50,11 +54,15 @@ The repository for the tasks from the Codewars website.
 
 The repository for the website that developed for the end of courses at the IT-Academy.
 
+---
+
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/HTML_CSS_Frameworks_courses">HTML, CSS, Frameworks courses</a></li>
 </ul>
 
 The repository for the IT-Academy basic course. Including several CSS, HTML and popular frameworks tasks.
+
+---  
 
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/PostgreSQL_course">PostgreSQL course</a></li>
@@ -62,8 +70,12 @@ The repository for the IT-Academy basic course. Including several CSS, HTML and 
   
 The repository for the PostgreSQL course including several tasks from Engineer Spock tasks.
 
+---
+  
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Python_course">Python course</a></li>  
 </ul>
 
 The repository for self-study and practice. Including several projects and IT-Academy tasks.
+
+---  
