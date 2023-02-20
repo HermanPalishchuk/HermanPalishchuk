@@ -11,14 +11,14 @@
 
 ---
 
-About me:
+#### About me:
 
 Started to learn coding on Python. I am highly motivated to get more knowledges in language and technologies at all. 
 Now exploring Flask, Docker.
  
  ---
 
-Languages and technologies:
+#### Languages and technologies:
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python">
