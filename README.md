@@ -38,21 +38,10 @@ Languages and technologies:
 
 Contents:
 
-<div>
-<a href="https://github.com/RandyR0zz/Codewars">Codewars</a>
-  <ul type="square">
-    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/5_kyu">5_kyu</a></li>
-    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/6_kyu">6_kyu</a></li>
-    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/7_kyu">7_kyu</a></li>
-    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/8_kyu">8_kyu</a></li>
-  </ul>
-</div>
-<div>
-<a href="https://github.com/RandyR0zz/Codewars">Codewars</a>
-  <ul type="square">
-    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/5_kyu">5_kyu</a></li>
-    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/6_kyu">6_kyu</a></li>
-    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/7_kyu">7_kyu</a></li>
-    <li><a href="https://github.com/RandyR0zz/Codewars/tree/main/Python/8_kyu">8_kyu</a></li>
-  </ul>
-</div>
+<ul type="square">
+  <li><a href="https://github.com/RandyR0zz/Codewars">Codewars</a></li>
+  <li><a href="https://github.com/RandyR0zz/Python_course">Python course</a></li>
+  <li><a href="https://github.com/RandyR0zz/PostgreSQL_course">PostgreSQL course</a></li>
+  <li><a href="https://github.com/RandyR0zz/HTML_CSS_Frameworks_courses">HTML, CSS, Frameworks courses</a></li>
+  <li><a href="https://github.com/RandyR0zz/Django_course">Django course</a></li>
+</ul>
