@@ -36,9 +36,7 @@ Languages and technologies:
 
   ---
 
-####Contents:
-
----
+#### Contents:
   
 <ul type="square">
   <li><a href="https://github.com/RandyR0zz/Codewars">Codewars</a></li>
@@ -77,5 +75,3 @@ The repository for the PostgreSQL course including several tasks from Engineer S
 </ul>
 
 The repository for self-study and practice. Including several projects and IT-Academy tasks.
-
----  
