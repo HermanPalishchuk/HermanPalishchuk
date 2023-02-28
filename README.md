@@ -32,6 +32,7 @@ Now exploring Flask, Docker.
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap">
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git">
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Docker" title="Docker">
 </div>
 
   ---
