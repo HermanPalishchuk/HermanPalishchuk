@@ -80,7 +80,7 @@ The repository for self-study and practice. Including several projects and IT-Ac
 ---
 
 <ul type="square">
-  <li><a href="https://github.com/RandyR0zz/IT-Bootcamp">IT Bootcamp</a></li>  
+  <li><a href="https://github.com/RandyR0zz/IT_Bootcamp_Test_Project">IT Bootcamp Test Project</a></li>  
 </ul>
 
-The repository for intership in IT Bootcamp.
+The repository for IT Bootcamp Test Project a basic Django website that developed as test for the IT Bootcamp.
