@@ -48,7 +48,7 @@ The repository for the tasks from the Codewars website.
 ---
   
 <ul type="square">
-  <li><a href="https://github.com/RandyR0zz/Django_course">Django course</a></li>
+  <li><a href="https://github.com/RandyR0zz/Steak_Fresh_Recipes_Project">Steak Fresh Recipes Project</a></li>
 </ul>
 
 The repository for the website that developed for the end of courses at the IT-Academy.
